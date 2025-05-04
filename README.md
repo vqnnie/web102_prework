@@ -27,10 +27,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/MUGNuq5.gif' title='WEB 102 Prework Video Walkthrough' width='' alt='WEB 102 Prework Video Walkthrough' />
+![WEB 102 Prework Walkthrough](https://i.imgur.com/MUGNuq5.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with LiceCap!  
+GIF created with LiceCap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
