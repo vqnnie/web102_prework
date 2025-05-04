@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a walkthrough of implemented features: https://i.imgur.com/MUGNuq5.gif
 
 ![WEB 102 Prework Walkthrough](https://i.imgur.com/MUGNuq5.gif)
 
